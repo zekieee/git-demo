@@ -35,3 +35,5 @@ Repository -- like a folder/container that stores files/folders related to a pro
 
 *	git status 
 		- displays the current status of your file/folder
+
+git log to check
